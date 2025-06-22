@@ -1,5 +1,5 @@
 # Overview
-A repository for all my data science projects and investigations. 
+A repository for all my exploratory data analysis (EDA) projects. 
 
 ## Projects
 
